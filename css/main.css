@@ -1,9 +1,42 @@
 
 
+
+.food{
+  color:green;
+  font-family: 'Comfortaa';
+  position:absolute;
+  top: 40%;
+  left:25%;
+  border-radius:100px;
+  border-color:white;
+  border-width:medium;
+
+}
+
+.attractions{
+  color:green;
+  font-family: 'Comfortaa';
+  position:absolute;
+  top:40%;
+  right:25%;
+  border-radius:100px;
+  border-color: white;
+  border-width: medium;
+}
+
 h1 {
   color: green;
   font-family: 'Comfortaa',cursive;
+  text-align:center;
+  font-size: 64px;
+  position:absolute;
+  top:10%;
+  left:20%;
+  font-weight:bold;
 }
+
 body {
-    background-image: url("/images/hopevalley.jpg)";
+  background-repeat:no-repeat;
+  background-image: url("css/hope-valley.jpg");
+  background-attachment: fixed;
 }
