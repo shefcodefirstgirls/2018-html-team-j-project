@@ -2,7 +2,7 @@
 
 
 .food{
-  color:green;
+  color:white;
   font-family: 'Comfortaa';
   position:absolute;
   top: 40%;
@@ -15,7 +15,7 @@
 }
 
 .attractions{
-  color:green;
+  color:white;
   font-family: 'Comfortaa';
   position:absolute;
   top:40%;
@@ -26,18 +26,25 @@
 }
 
 h1 {
-  color: green;
+  color: white;
   font-family: 'Comfortaa',cursive;
   text-align:center;
   font-size: 64px;
   position:absolute;
   top:10%;
   left:25%;
-  font-weight:bold;
+  font-weight:bolder;
+  text-shadow: 5px 5px 5px #000;
+  background-color: grey;
+  opacity: 0.5;
+  border-style: solid;
+  border-color: white;
+  border-width: thick;
+
 }
 
 body {
-  background-repeat:no-repeat;
-  background-image: url("css/hope-valley.jpg");
+background-size: 100% 100%;
+  background-image: url("hope-valley.jpg");
   background-attachment: fixed;
 }
