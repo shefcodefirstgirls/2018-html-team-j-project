@@ -1,0 +1,50 @@
+body {
+background-size: 100% 100%;
+  background-color: white;
+  background-attachment: fixed;
+}
+
+h1 {
+  color: #254117;
+  font-family: 'Comfortaa',cursive;
+  text-align:center;
+  font-size: 40px;
+  left:35%;
+  font-weight:bolder;
+  text-shadow: 2px 2px 2px ;
+
+
+}
+h2{
+  font-family: "Comfortaa", cursive;
+  text-align: center;
+  font-weight: bold;
+  text-align:center;
+  font-size: 30px;
+  left:20%;
+}
+p{
+  color: #254117;
+  font-family: "Comfortaa", cursive;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+}
+h4 {
+
+	font-size:30px;
+	font-family:impact;
+text-align: center;
+ -webkit-text-fill-color: transparent;
+ background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
+body {
+background-size: 100% 100%;
+  background-image: url("bakewell.jpg");
+  background-attachment: fixed;
+  color: beige;
+  text-align: center;
+}
