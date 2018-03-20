@@ -41,3 +41,10 @@ text-align: center;
  background: -o-linear-gradient(transparent, transparent);
  -webkit-background-clip: text;
 }
+body {
+background-size: 100% 100%;
+  background-image: url("bakewell.jpg");
+  background-attachment: fixed;
+  color: beige;
+  text-align: center;
+}
