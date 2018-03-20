@@ -25,13 +25,21 @@
   border-width: medium;
 }
 
+.Googleform{
+  position:absolute;
+  bottom:5%;
+right:5%;
+
+
+}
+
 h1 {
-  color: beige;
+  color: white;
   font-family: 'Comfortaa',cursive;
   text-align:center;
   font-size: 64px;
   position:absolute;
-  top:10%;
+  top:20%;
   left:25%;
   font-weight:bolder;
   text-shadow: 5px 5px 5px #000;
@@ -47,5 +55,4 @@ body {
 background-size: 100% 100%;
   background-image: url("hope-valley.jpg");
   background-attachment: fixed;
-  
 }
