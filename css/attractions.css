@@ -37,7 +37,7 @@ h4 {
 text-align: center;
  -webkit-text-fill-color: transparent;
  background: -webkit-linear-gradient(transparent, transparent),
-             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+             url(http://www.imagemagick.org/Usage/anim_mods/glitter_blue_tiled.gif) repeat;
  background: -o-linear-gradient(transparent, transparent);
  -webkit-background-clip: text;
 }
